@@ -1,4 +1,5 @@
 .DS_Store
+intel-image-classification/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
